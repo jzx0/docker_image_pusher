@@ -5,3 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 apache/apisix:3.9.0-debian
+rancher/coreos-etcd:v3.4.15-arm64
+nginx:1.19.10-alpine
