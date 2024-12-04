@@ -6,4 +6,8 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 apache/apisix:3.9.0-debian
 rancher/coreos-etcd:v3.4.15-arm64
-nginx:1.19.10-alpine
+bitnami/etcd:3.5.11
+nginx:1.19.0-alpine
+nginx:1.19.0-alpine
+prom/prometheus:v2.25.0
+grafana/grafana:7.3.7
