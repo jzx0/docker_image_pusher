@@ -11,3 +11,8 @@ nginx:1.19.0-alpine
 nginx:1.19.0-alpine
 prom/prometheus:v2.25.0
 grafana/grafana:7.3.7
+alpine:latest
+golang:1.19
+node:14-alpine
+apache/apisix-dashboard:3.0.0-alpine
+apache/apisix-dashboard:3.9.0-debian
