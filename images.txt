@@ -14,5 +14,6 @@
 #golang:1.19
 #node:14-alpine
 #apache/apisix-dashboard:3.0.0-alpine
-apache/apisix:3.11.0-debian
-envoyproxy/envoy:v1.33.2
+#apache/apisix:3.11.0-debian
+#envoyproxy/envoy:v1.33.2
+instrumentisto/dante-server
