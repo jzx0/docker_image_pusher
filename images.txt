@@ -16,4 +16,4 @@
 #apache/apisix-dashboard:3.0.0-alpine
 #apache/apisix:3.11.0-debian
 #envoyproxy/envoy:v1.33.2
-instrumentisto/dante-server
+serjs/go-socks5-proxy
